@@ -1,0 +1,19 @@
+﻿{
+  "Name": "Kenan",
+  "Surname": "Idayatov",
+  "BirthDate": "2001-12-28T23:59:59",
+  "FavMusics": [
+    "Pop",
+    "Soundtrack",
+    "Classical",
+    "Folk",
+    "Rap"
+  ],
+  "Gender": "Male",
+  "Adress": "Xirdalan",
+  "Country": "Azerbaycan",
+  "City": "Bakı",
+  "Email": "idayatovkenan7@gmail.com",
+  "Phone": "(099) 333-44-05",
+  "PostalCode": "0100"
+}

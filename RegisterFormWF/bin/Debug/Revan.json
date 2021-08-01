@@ -1,0 +1,20 @@
+﻿{
+  "Name": "Revan",
+  "Surname": "Idayatov",
+  "BirthDate": "2004-09-04T23:59:59",
+  "FavMusics": [
+    "Pop",
+    "Soundtrack",
+    "Rap",
+    "Jazz",
+    "Classical",
+    "Dance"
+  ],
+  "Gender": "Male",
+  "Adress": "18 mkr",
+  "Country": "Azerbaycan",
+  "City": "Sumqayıt",
+  "Email": "revan123@gmail.com",
+  "Phone": "(077) 346-54-56",
+  "PostalCode": "0001"
+}
